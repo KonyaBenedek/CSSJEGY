@@ -29,4 +29,15 @@ a {
     height: 35px;
     background-color: rgb(205, 219, 235);
     text-align: center;
-}    
+}
+#szoveg {
+    font-size: 11px;
+} 
+#kep {
+    float: right;
+    position: relative;
+    bottom: 150px;
+    left: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}   
