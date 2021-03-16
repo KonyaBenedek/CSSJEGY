@@ -6,9 +6,22 @@ a {
     color: #666584;
 }
 
-table {
+#tablazat1 {
     width: 650px;
     text-align: center;
     background-color: rgb(102, 101, 132);
+    position: relative;
+    left: 14cm;
     table-layout: fixed;
+}
+#tablazat2 {
+    width: 600px;
+    background-color: white;
+    position: relative;
+    left: 14cm;
+    table-layout: fixed;
+}
+.sorok {
+    height: 35px;
+    background-color: rgb(205, 219, 235);
 }
