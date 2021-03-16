@@ -1,0 +1,14 @@
+body {
+    background-color: #E0E0E0;
+    color: black;
+}
+a {
+    color: #666584;
+}
+
+table {
+    width: 650px;
+    text-align: center;
+    background-color: rgb(102, 101, 132);
+    table-layout: fixed;
+}
