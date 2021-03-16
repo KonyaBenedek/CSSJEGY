@@ -13,6 +13,9 @@ a {
     position: relative;
     left: 14cm;
     table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 1px;
+    padding-right: 0px;
 }
 #tablazat2 {
     width: 600px;
@@ -20,8 +23,12 @@ a {
     position: relative;
     left: 14cm;
     table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 1px;
+    
 }
 .sorok {
     height: 35px;
     background-color: rgb(205, 219, 235);
-}
+    text-align: center;
+}    
